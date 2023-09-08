@@ -23,7 +23,7 @@ For this very purpose I have released an open source library which provides supp
 ## Slides
 
 PDF version available on GitHub -
-[Link]()
+[Link](https://github.com/ArunMichaelDsouza/js-gamedev-summit-2023-talk/blob/ac79564d8b78a3ac59a6eb77ebecf94d2eb1f317/slides/Using%20the%20gamepad%20API%20for%20a%20better%20gaming%20experience%20on%20the%20web.pdf)
 
 Also on Speaker Deck -
 [Link]()
