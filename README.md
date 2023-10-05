@@ -26,12 +26,12 @@ PDF version available on GitHub -
 [Link](https://github.com/ArunMichaelDsouza/js-gamedev-summit-2023-talk/blob/ac79564d8b78a3ac59a6eb77ebecf94d2eb1f317/slides/Using%20the%20gamepad%20API%20for%20a%20better%20gaming%20experience%20on%20the%20web.pdf)
 
 Also on Speaker Deck -
-[Link]()
+[Link](https://speakerdeck.com/arunmichaeldsouza/using-the-gamepad-api-for-a-better-gaming-experience-on-the-web-b74f2775-6e5d-4d22-8983-124ad208305e)
 
 ## Talk video
 
-Available on YouTube -
-[Link]()
+Available on GitNation -
+[Link](https://portal.gitnation.org/contents/using-the-gamepad-api-for-a-better-gaming-experience-on-the-web)
 
 ## License
 
